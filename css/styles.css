@@ -3,3 +3,32 @@ body {
   color: white;
   padding-left: 10%;
 }
+
+.address {
+  font-family: monospace;
+  font-size: 120%;
+}
+
+.experience {
+  font-family: times;
+}
+
+.education {
+  font-weight: 85%;
+}
+
+.exp {
+  font-weight: bold;
+}
+
+.obj {
+  font-weight: bold;
+}
+
+.skill {
+  font-weight: bold;
+}
+
+.edu {
+  font-weight: bold;
+}
